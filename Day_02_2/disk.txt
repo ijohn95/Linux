@@ -1,0 +1,17 @@
+Filesystem     1K-blocks    Used Available Use% Mounted on
+udev             1991548       0   1991548   0% /dev
+tmpfs             403092    1304    401788   1% /run
+/dev/sda1       51341792 8801028  39903044  19% /
+tmpfs            2015448   15372   2000076   1% /dev/shm
+tmpfs               5120       4      5116   1% /run/lock
+tmpfs            2015448       0   2015448   0% /sys/fs/cgroup
+/dev/loop1           384     384         0 100% /snap/gnome-characters/550
+/dev/loop2         56704   56704         0 100% /snap/core18/1885
+/dev/loop0          2560    2560         0 100% /snap/gnome-calculator/748
+/dev/loop3          1024    1024         0 100% /snap/gnome-logs/100
+/dev/loop4        261760  261760         0 100% /snap/gnome-3-34-1804/36
+/dev/loop5         31104   31104         0 100% /snap/snapd/9279
+/dev/loop6         63616   63616         0 100% /snap/gtk-common-themes/1506
+/dev/loop7          2304    2304         0 100% /snap/gnome-system-monitor/148
+/dev/loop8         30720   30720         0 100% /snap/snapd/8790
+tmpfs             403088      28    403060   1% /run/user/1000

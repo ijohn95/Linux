@@ -1,0 +1,7 @@
+Attached devices:
+Host: scsi0 Channel: 00 Id: 00 Lun: 00
+  Vendor: ATA      Model: VBOX HARDDISK    Rev: 1.0 
+  Type:   Direct-Access                    ANSI  SCSI revision: 05
+Host: scsi1 Channel: 00 Id: 00 Lun: 00
+  Vendor: VBOX     Model: CD-ROM           Rev: 1.0 
+  Type:   CD-ROM                           ANSI  SCSI revision: 05

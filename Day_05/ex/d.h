@@ -1,0 +1,1 @@
+#define MINCO	77
